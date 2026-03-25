@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Saurav Pandit</h1>
-<h3 align="center"> Full Stack (MERN) Developer | Diving into AI & ML | Passionate About Building Scalable Web Apps</h3>
+<h3 align="center"> 💻 MERN Stack Developer | 🤖 AI & ML Enthusiast </h3>
 
 ---
 
@@ -81,11 +81,5 @@
 - 🚀 Become a Full Stack Developer  
 - 💡 Build impactful real-world projects  
 - 📈 Contribute to Open Source  
-
----
-
-## ❤️ Support
-
-If you like my work, consider giving a ⭐ to my repositories!
 
 ---
