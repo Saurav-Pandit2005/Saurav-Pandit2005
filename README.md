@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Saurav Pandit</h1>
-<h3 align="center">🚀 Passionate Frontend Developer | Lifelong Learner from India</h3>
+<h3 align="center"> Full Stack (MERN) Developer | Diving into AI & ML | Passionate About Building Scalable Web Apps</h3>
 
 ---
 
