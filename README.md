@@ -59,14 +59,6 @@
 
 ---
 
-## ✨ Projects
-
-- 🔹 Add your best projects here (with links)
-- 🔹 Example: Portfolio Website
-- 🔹 Example: Full Stack App (MERN)
-
----
-
 ## 📚 Currently Exploring
 
 - 🔍 Data Structures & Algorithms  
