@@ -5,7 +5,7 @@
 
 ## 👨‍💻 About Me
 
-- 🌱 Currently learning **DSA, Web Development, AI & ML, Data Analytics**
+- 🌱 Currently learning **DSA, Web Development, AI & ML, Data Science**
 - 💬 Ask me about **HTML, CSS, JavaScript, React, Node.js, Express, MongoDB**
 - 📫 Reach me at: **sauravpandit9691@gmail.com**
 - ⚡ Fun fact: *Every day is a learning opportunity!*
@@ -36,7 +36,7 @@
 
 - 🔍 Data Structures & Algorithms  
 - 🤖 Artificial Intelligence & Machine Learning  
-- 📊 Data Analytics  
+- 📊 Data Science  
 - 🌐 Advanced Web Development  
 
 ---
