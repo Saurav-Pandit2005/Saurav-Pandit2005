@@ -35,7 +35,6 @@
 
 - 🔍 Data Structures & Algorithms  
 - 🤖 Artificial Intelligence & Machine Learning  
-- 📊 Data Science  
 - 🌐 Advanced Web Development  
 
 ---
