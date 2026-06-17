@@ -4,12 +4,6 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=34&duration=2500&pause=1000&color=3B82F6&center=true&vCenter=true&width=1000&lines=Saurav+Pandit;Full+Stack+Web+Developer;MERN+Stack+Developer;AI+%26+ML+Enthusiast"/>
 
-<br>
-
-<img src="https://img.shields.io/badge/B.Tech-Computer_Engineering-2563EB?style=flat-square"/>
-<img src="https://img.shields.io/badge/CGPA-8.58%2F10-10B981?style=flat-square"/>
-<img src="https://img.shields.io/badge/Location-Gujarat%2C_India-6366F1?style=flat-square"/>
-
 </div>
 
 ---
