@@ -148,11 +148,7 @@ Node.js • Express.js • MongoDB • EJS
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Saurav-Pandit2005&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-
 <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Saurav-Pandit2005&theme=tokyonight"/>
-
-<br><br>
 
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saurav-Pandit2005&layout=compact&theme=tokyonight"/>
 
