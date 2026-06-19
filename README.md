@@ -193,8 +193,8 @@ Goals:
   <img src="https://img.shields.io/badge/LeetCode-spandit2005-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
 </a>
 
-<a href="https://www.hackerrank.com/profile/sauravpandit9691">
-  <img src="https://img.shields.io/badge/HackerRank-YOUR_USERNAME-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white"/>
+<a href="https://www.hackerrank.com/profile/spandit2005">
+  <img src="https://img.shields.io/badge/HackerRank-spandit2005-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white"/>
 </a>
 
 <br><br>
