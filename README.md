@@ -17,7 +17,7 @@ I enjoy building scalable web applications, solving Data Structures & Algorithms
 Currently focused on improving my **MERN Stack Development**, strengthening my **Problem Solving with Java**, and building practical **AI & ML Projects**.
 
 ---
-## 👨‍💻 Tech Stack & Skills
+## Tech Stack & Skills
 
 ### Programming Languages
 
