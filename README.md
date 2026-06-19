@@ -120,33 +120,6 @@ Node.js • Express.js • MongoDB • EJS
 
 ---
 
-# GitHub Analytics
-
-<div align="center">
-
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Saurav-Pandit2005&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saurav-Pandit2005&layout=compact&theme=tokyonight"/>
-
-</div>
-
----
-
-# Current Focus
-
-```yaml
-Learning:
-  - Advanced MERN Stack
-  - Data Structures & Algorithms
-  - Machine Learning & Deep Learning 
-
-Goals:
-  - Become a Full Stack Developer
-  - Master DSA with Java
-  - Build Production-Ready Applications
-```
-
----
 # Connect
 
 <br>
