@@ -126,16 +126,6 @@ Node.js • Express.js • MongoDB • EJS
 
 ---
 
-# Current Focus
-
-* MERN Stack Development
-* Java & DSA Problem Solving
-* Machine Learning Projects
-* Open Source Contributions
-* Building Real World Applications
-
----
-
 # Connect With Me
 
 <div align="center">
