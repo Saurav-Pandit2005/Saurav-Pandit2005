@@ -16,10 +16,8 @@ I enjoy building scalable web applications, solving Data Structures & Algorithms
 
 Currently focused on improving my **MERN Stack Development**, strengthening my **Problem Solving with Java**, and building practical **AI & ML Projects**.
 
-Explore my personal portfolio showcasing my projects, technical skills, achievements, and development journey.
-
 <a href="https://saurav-portfolio-eosin.vercel.app">
-  <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-3B82F6?style=for-the-badge&logo=vercel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Portfolio-Saurav%20Pandit-3B82F6?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
 ---
