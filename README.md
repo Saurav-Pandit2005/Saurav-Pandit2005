@@ -64,7 +64,6 @@ Currently focused on improving my **MERN Stack Development**, strengthening my *
 ![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
 
 ---
-
 # Featured Projects
 
 ## The Blog Hub
@@ -83,6 +82,11 @@ A modern blogging platform built using the MERN Stack.
 
 MongoDB • Express.js • React.js • Node.js
 
+### Links
+
+🔗 **GitHub Repository:**  
+https://github.com/Saurav-Pandit2005/The-Blog-Hub
+
 ---
 
 ## House Price Predictor
@@ -93,39 +97,13 @@ Machine Learning application that predicts house prices using trained regression
 
 Python • Pandas • NumPy • Scikit-Learn • Streamlit
 
----
+### Links
 
-## ML Projects Repository
+🔗 **GitHub Repository:**  
+https://github.com/Saurav-Pandit2005/ML-Projects/tree/main/House-Price-App
 
-Collection of Machine Learning projects covering:
-
-* Regression
-* Classification
-* Clustering
-* Data Analysis
-* Model Deployment
-
-### Tech Stack
-
-Python • Pandas • NumPy • Scikit-Learn
-
----
-
-## Wanderlust
-
-Travel and accommodation platform inspired by Airbnb.
-
-### Features
-
-* User Authentication
-* Property Listings
-* Reviews & Ratings
-* Image Uploads
-* CRUD Operations
-
-### Tech Stack
-
-Node.js • Express.js • MongoDB • EJS
+**Live Demo:**  
+https://house-price-predictor-saurav.streamlit.app/
 
 ---
 
