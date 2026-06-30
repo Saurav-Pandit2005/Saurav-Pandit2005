@@ -102,7 +102,7 @@ Python • Pandas • NumPy • Scikit-Learn • Streamlit
 🔗 **GitHub Repository:**  
 https://github.com/Saurav-Pandit2005/ML-Projects/tree/main/House-Price-App
 
-**Live Demo:**  
+🔗 **Live Demo:**  
 https://house-price-predictor-saurav.streamlit.app/
 
 ---
