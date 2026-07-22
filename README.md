@@ -85,7 +85,7 @@ MongoDB • Express.js • React.js • Node.js
 ### Links
 
 🔗 **GitHub Repository:**  
-https://github.com/Saurav-Pandit2005/The-Blog-Hub
+https://github.com/Saurav-Pandit2005/The_Blog_Hub
 
 ---
 
