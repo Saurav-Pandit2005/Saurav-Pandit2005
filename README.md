@@ -8,6 +8,14 @@
 
 ---
 
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=Saurav-Pandit2005&label=Profile%20Views&color=3B82F6&style=for-the-badge" alt="Profile Views"/>
+
+</div>
+
+<br>
+
 # About Me
 
 I'm a **Computer Engineering Student** passionate about **Full Stack Web Development**, **Artificial Intelligence**, and **Machine Learning**.
