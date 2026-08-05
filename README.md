@@ -147,13 +147,6 @@ https://house-price-predictor-saurav.streamlit.app/
 
 ---
 
-<div align="center">
-
-<i>"You cannot believe in God until you believe in yourself."</i>
-
-**— Swami Vivekananda**
-
-</div>
 
 <br>
 
