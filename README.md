@@ -8,11 +8,11 @@
 
 ---
 
-<!-- <div align="center">
+<div align="center">
 
 <img src="https://komarev.com/ghpvc/?username=Saurav-Pandit2005&label=Profile%20Views&color=3B82F6&style=for-the-badge" alt="Profile Views"/>
 
-</div> -->
+</div>
 
 <br>
 
