@@ -8,28 +8,28 @@
 
 ---
 
-
 <div align="center">
 
 <img src="https://komarev.com/ghpvc/?username=Saurav-Pandit2005&label=Profile%20Views&color=3B82F6&style=for-the-badge" alt="Profile Views"/>
 
-</div> 
+</div>
 
 <br>
 
 # About Me
 
-I'm a **Computer Engineering Student** passionate about **Full Stack Web Development**, **Artificial Intelligence**, and **Machine Learning**.
+I'm a **Computer Engineering Student** passionate about **Full Stack Web Development, Artificial Intelligence, and Machine Learning**.
 
-I enjoy building scalable web applications, solving Data Structures & Algorithms problems, and exploring technologies that create real-world impact.
+I enjoy building scalable and user-focused web applications, solving **Data Structures & Algorithms** problems, and exploring technologies that create real-world impact.
 
-Currently focused on improving my **MERN Stack Development**, strengthening my **Problem Solving with Java**, and building practical **AI & ML Projects**.
+Currently, I'm focused on strengthening my **MERN Stack Development**, improving **Problem Solving with Java**, and building practical **AI & ML applications**.
 
 <a href="https://saurav-portfolio-eosin.vercel.app">
   <img src="https://img.shields.io/badge/Portfolio-Saurav%20Pandit-3B82F6?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
 ---
+
 # Tech Stack & Skills
 
 ## Programming Languages
@@ -51,13 +51,13 @@ Currently focused on improving my **MERN Stack Development**, strengthening my *
 
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge\&logo=node.js\&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge\&logo=express\&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge\&logo=fastapi\&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge\&logo=mongodb\&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge\&logo=mysql\&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge\&logo=postgresql\&logoColor=white)
 
 ## AI & Machine Learning
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge\&logo=numpy\&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge\&logo=pandas\&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge\&logo=scikit-learn\&logoColor=white)
@@ -65,54 +65,95 @@ Currently focused on improving my **MERN Stack Development**, strengthening my *
 
 ## Tools & Platforms
 
-![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Jupyter Notebook](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge\&logo=github\&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge\&logo=visual-studio-code\&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge\&logo=postman\&logoColor=white)
+![Jupyter Notebook](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge\&logo=jupyter\&logoColor=white)
+![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge\&logo=googlecolab\&logoColor=white)
 
 ---
+
 # Featured Projects
+
+## Vitals — Personalized Health Tracking & Risk Prediction
+
+A full-stack health tracking and risk assessment platform that combines **machine learning, personalized recommendations, and health analytics** into a single dashboard.
+
+### Features
+
+* Symptom-Based Condition Prediction
+* Personalized Diet & Calorie Planning
+* BMI & BMR Calculation
+* ML-Based Fitness Score Prediction
+* ECG Rhythm Classification
+* Overall Health Risk Assessment
+* Interactive Dashboard & Data Visualization
+* Modular FastAPI Backend
+* Responsive React Interface
+
+### Tech Stack
+
+**React.js • Tailwind CSS • FastAPI • Python • Scikit-Learn • Recharts**
+
+### Links
+
+<a href="https://github.com/Saurav-Pandit2005/Vitals">
+  <img src="https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+---
 
 ## The Blog Hub
 
-A modern blogging platform built using the MERN Stack.
+A full-stack blogging platform built with the **MERN Stack**, designed to provide a complete content publishing and management experience.
 
 ### Features
 
 * Authentication & Authorization
-* Blog Management
+* Blog Creation, Editing & Management
 * Categories & Search
-* Responsive UI
+* Responsive User Interface
 * Admin Dashboard
+* User Profile Management
 
 ### Tech Stack
 
-MongoDB • Express.js • React.js • Node.js
+**MongoDB • Express.js • React.js • Node.js**
 
 ### Links
 
-🔗 **GitHub Repository:**  
-https://github.com/Saurav-Pandit2005/The_Blog_Hub
+<a href="https://github.com/Saurav-Pandit2005/The_Blog_Hub">
+  <img src="https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
 ---
 
 ## House Price Predictor
 
-Machine Learning application that predicts house prices using trained regression models and provides an interactive Streamlit interface.
+A machine learning application that predicts house prices using a trained regression model with an interactive **Streamlit** interface.
+
+### Features
+
+* Data Preprocessing & Feature Engineering
+* Machine Learning-Based Price Prediction
+* Interactive Prediction Interface
+* Trained Regression Model
+* Streamlit Deployment
 
 ### Tech Stack
 
-Python • Pandas • NumPy • Scikit-Learn • Streamlit
+**Python • Pandas • NumPy • Scikit-Learn • Streamlit**
 
 ### Links
 
-🔗 **GitHub Repository:**  
-https://github.com/Saurav-Pandit2005/ML-Projects/tree/main/House-Price-App
+<a href="https://github.com/Saurav-Pandit2005/ML-Projects/tree/main/House-Price-App">
+  <img src="https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
-🔗 **Live Demo:**  
-https://house-price-predictor-saurav.streamlit.app/
+<a href="https://house-price-predictor-saurav.streamlit.app/">
+  <img src="https://img.shields.io/badge/Live-Demo-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
+</a>
 
 ---
 
@@ -145,9 +186,6 @@ https://house-price-predictor-saurav.streamlit.app/
 </a>
 
 </div>
-
----
-
 
 <br>
 
