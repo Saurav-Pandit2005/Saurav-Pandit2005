@@ -105,7 +105,7 @@ A full-stack health platform that lets users track daily vitals, get an ML-drive
 
 ---
 
-## The Blog Hub
+## The Blog Hub | ( Articles – Podcasts – Resources ) 
 
 A full-stack blogging platform built with the **MERN Stack**, designed to provide a complete content publishing and management experience.
 
