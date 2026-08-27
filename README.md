@@ -75,31 +75,32 @@ Currently, I'm focused on strengthening my **MERN Stack Development**, improving
 ---
 
 # Featured Projects
+## HealthSense AI — Health Tracker, Disease Risk Prediction & Wellness Planner
 
-## Vitals — Personalized Health Tracking & Risk Prediction
-
-A full-stack health tracking and risk assessment platform that combines **machine learning, personalized recommendations, and health analytics** into a single dashboard.
+A full-stack health platform that lets users track daily vitals, get an ML-driven diabetes risk assessment, and receive personalized fitness & meal plans — all in one dashboard.
 
 ### Features
 
-* Symptom-Based Condition Prediction
-* Personalized Diet & Calorie Planning
-* BMI & BMR Calculation
-* ML-Based Fitness Score Prediction
-* ECG Rhythm Classification
-* Overall Health Risk Assessment
-* Interactive Dashboard & Data Visualization
-* Modular FastAPI Backend
-* Responsive React Interface
+* Daily Health Tracking (vitals, sleep, water, steps, exercise)
+* Auto-Calculated BMI & Weighted Health Score
+* ML-Based Diabetes Risk Prediction with Per-User Explainability
+* Personalized Fitness & Meal Planner
+* One-Click PDF Health Report Export
+* 14-Day Trend Analytics Dashboard
+* JWT Authentication & Secure User Profiles
 
 ### Tech Stack
 
-**React.js • Tailwind CSS • FastAPI • Python • Scikit-Learn • Recharts**
+**React.js • Tailwind CSS • Node.js • Express.js • FastAPI • Scikit-Learn • MongoDB**
 
 ### Links
 
-<a href="https://github.com/Saurav-Pandit2005/Vitals">
+<a href="https://github.com/Saurav-Pandit2005/HealthSense-AI">
   <img src="https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://health-sense-ai-x.vercel.app">
+  <img src="https://img.shields.io/badge/Live-Demo-3B82F6?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
 ---
