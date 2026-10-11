@@ -128,6 +128,10 @@ A full-stack blogging platform built with the **MERN Stack**, designed to provid
   <img src="https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
+<a href="https://the-blog-hub-h6-xi.vercel.app">
+  <img src="https://img.shields.io/badge/Live-Demo-3B82F6?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
 ---
 
 ## House Price Predictor
