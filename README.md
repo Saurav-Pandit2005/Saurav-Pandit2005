@@ -8,7 +8,7 @@
 
 ---
 
-# About Me
+# About 
 
 I'm a **Computer Engineering Student** passionate about **Full Stack Web Development, Artificial Intelligence, and Machine Learning**.
 
